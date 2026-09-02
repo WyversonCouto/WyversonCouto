@@ -64,7 +64,7 @@
 | Projeto                     |         Status        | Tecnologias           |
 | --------------------------- | :-------------------: | --------------------- |
 | 💻 Sistema de Cadastro      | 🚧 Em desenvolvimento | HTML, CSS, JavaScript |
-| 🌐 Portfólio Profissional   |       ⏳ Em breve      | HTML, CSS, JavaScript |
+| [Portfólio Profissional](https://wyversoncouto.github.io/Portfolio/) |     ✅ Publicado      | HTML, CSS, JavaScript |
 | 📝 Lista de Tarefas         |       ⏳ Em breve      | JavaScript            |
 | 📊 Dashboard Administrativo |       ⏳ Em breve      | HTML, CSS, JS         |
 | ⚛ React App                 |       ⏳ Em breve      | React                 |
