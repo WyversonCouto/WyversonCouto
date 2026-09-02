@@ -65,6 +65,7 @@
 | --------------------------- | :-------------------: | --------------------- |
 | 💻 Sistema de Cadastro      | 🚧 Em desenvolvimento | HTML, CSS, JavaScript |
 | [Portfólio Profissional](https://wyversoncouto.github.io/Portfolio/) |     ✅ Publicado      | HTML, CSS, JavaScript |
+| [Sistema de Pedidos — Hamburgueria](https://wyversoncouto.github.io/sistema-pedidos-hamburgueria/) | ✅ Publicado | HTML, CSS, JavaScript |
 | 📝 Lista de Tarefas         |       ⏳ Em breve      | JavaScript            |
 | 📊 Dashboard Administrativo |       ⏳ Em breve      | HTML, CSS, JS         |
 | ⚛ React App                 |       ⏳ Em breve      | React                 |
