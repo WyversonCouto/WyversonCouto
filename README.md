@@ -64,32 +64,34 @@
 
 # 📂 Projetos
 
+> Clique no nome do projeto para abrir o repositório.
+
 ## 🌐 Front-end
 
-| Projeto | Descrição | Tecnologias | Links |
-| ------- | --------- | ----------- | :---: |
-| **Portfólio Profissional** | Site com meus projetos pessoais | HTML, CSS, JavaScript | [🔗 Demo](https://wyversoncouto.github.io/Portfolio/) · [📁 Código](https://github.com/WyversonCouto/Portfolio) |
-| **Sistema de Pedidos — Hamburgueria** | Cardápio digital com carrinho, cálculo automático do total e resumo do pedido em tempo real. Layout responsivo | HTML, CSS, JavaScript | [🔗 Demo](https://wyversoncouto.github.io/sistema-pedidos-hamburgueria/) · [📁 Código](https://github.com/WyversonCouto/sistema-pedidos-hamburgueria) |
+| Projeto | Descrição | Tecnologias | Online |
+| ------- | --------- | ----------- | ------ |
+| [**Portfólio Profissional**](https://github.com/WyversonCouto/Portfolio) | Site com meus projetos pessoais | HTML, CSS, JavaScript | [Ver portfólio](https://wyversoncouto.github.io/Portfolio/) |
+| [**Sistema de Pedidos — Hamburgueria**](https://github.com/WyversonCouto/sistema-pedidos-hamburgueria) | Cardápio digital com carrinho, cálculo automático do total e resumo do pedido em tempo real. Layout responsivo | HTML, CSS, JavaScript | [Fazer um pedido](https://wyversoncouto.github.io/sistema-pedidos-hamburgueria/) |
 
 ## 🤖 Automação e IA
 
-| Projeto | Descrição | Tecnologias | Links |
-| ------- | --------- | ----------- | :---: |
-| **WY Assistant AI** 🚧 | Secretária virtual que responde mensagens, gerencia agenda e classifica contatos | n8n, Ollama, Docker, Google Calendar, Gmail, Telegram | [📁 Código](https://github.com/WyversonCouto/WY-Assistant-AI) |
-| **Assistente de Investimentos com RPA e IA** | Workflow de automação com IA generativa e envio por e-mail (desafio DIO) | n8n, Groq, Gmail | [📁 Código](https://github.com/WyversonCouto/dio-lab-assistente-investimentos-rpa-n8n) |
-| **Desafios Criativos** | Planejamento de automações com n8n usando bons prompts (desafio DIO) | n8n, Engenharia de prompts | [📁 Código](https://github.com/WyversonCouto/meus-desafios-criativos) |
+| Projeto | Descrição | Tecnologias |
+| ------- | --------- | ----------- |
+| [**WY Assistant AI**](https://github.com/WyversonCouto/WY-Assistant-AI) 🚧 | Secretária virtual que responde mensagens, gerencia agenda e classifica contatos | n8n, Ollama, Docker, Google Calendar, Gmail, Telegram |
+| [**Assistente de Investimentos com RPA e IA**](https://github.com/WyversonCouto/dio-lab-assistente-investimentos-rpa-n8n) | Workflow de automação com IA generativa e envio por e-mail (desafio DIO) | n8n, Groq, Gmail |
+| [**Desafios Criativos**](https://github.com/WyversonCouto/meus-desafios-criativos) | Planejamento de automações com n8n usando bons prompts (desafio DIO) | n8n, Engenharia de prompts |
 
 ## 📊 Dados
 
-| Projeto | Descrição | Tecnologias | Links |
-| ------- | --------- | ----------- | :---: |
-| **VoeBem Analytics** | Pipeline de dados da aviação brasileira (ANAC) com arquitetura medalhão: Bronze, Silver, Gold e Genie (Imersão Alura) | Databricks, SQL, Python | [📁 Código](https://github.com/WyversonCouto/voebem-analytics-databricks) |
+| Projeto | Descrição | Tecnologias |
+| ------- | --------- | ----------- |
+| [**VoeBem Analytics**](https://github.com/WyversonCouto/voebem-analytics-databricks) | Pipeline de dados da aviação brasileira (ANAC) com arquitetura medalhão: Bronze, Silver, Gold e Genie (Imersão Alura) | Databricks, SQL, Python |
 
 ## 📘 Estudos
 
-| Projeto | Descrição | Links |
-| ------- | --------- | :---: |
-| **Miniguia de Estudos Front-end** | Caderno temático no NotebookLM sobre como se tornar um desenvolvedor Front-end e ser contratado (desafio DIO) | [📁 Código](https://github.com/WyversonCouto/miniguia-estudos-notebooklm) |
+| Projeto | Descrição |
+| ------- | --------- |
+| [**Miniguia de Estudos Front-end**](https://github.com/WyversonCouto/miniguia-estudos-notebooklm) | Caderno temático no NotebookLM sobre como se tornar um desenvolvedor Front-end e ser contratado (desafio DIO) |
 
 > 🚧 **Próximos projetos:** Lista de Tarefas (JavaScript), Dashboard Administrativo, Landing Page Responsiva e um app em React.
 
@@ -140,7 +142,7 @@
 
 🗣️ **Português** — Nativo
 
-🗣️ **Inglês** — Avançado
+🗣️ **Inglês** — Intermediário
 
 🗣️ **Espanhol** — Intermediário
 
