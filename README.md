@@ -3,181 +3,115 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="./banner.png" alt="Wyverson Couto Banner" width="100%">
+  <img src="banner.png" alt="Wyverson Couto - Desenvolvedor Front-end" />
 </p>
 
 <h1 align="center">Olá 👋, eu sou Wyverson Couto</h1>
 
-<h3 align="center">
-💻 Desenvolvedor Front-end • 🎓 Tecnólogo em ADS • 🚀 Em busca da primeira oportunidade em TI
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=2563EB&lines=HTML+%7C+CSS+%7C+JavaScript;React+e+TypeScript;Automa%C3%A7%C3%A3o+com+n8n+e+IA;Engenharia+de+dados+com+Databricks;Sempre+aprendendo+algo+novo.">
+  💻 Desenvolvedor Front-end • 🎓 Tecnólogo em ADS • 🚀 Em busca da primeira oportunidade em TI
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WyversonCouto&label=VISITANTES&style=for-the-badge&color=2563EB"/>
-</p>
-
----
-
-# 👨‍💻 Sobre mim
-
-🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas**
-
-📍 Araraquara - SP
-
-💼 Atualmente atuando na área de monitoramento eletrônico e realizando transição para Desenvolvimento de Software.
-
-🚀 Apaixonado por tecnologia, desenvolvimento web, aprendizado contínuo e resolução de problemas.
-
----
-
-# 🛠 Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,py,git,github,mysql,vscode"/>
-
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <a href="https://linkedin.com/in/wyverson-couto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:wyversonn.pablo@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wyversoncouto.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
 
-# 📚 Atualmente estudando
+## 👨‍💻 Sobre mim
 
-* React e TypeScript
-* JavaScript ES6+
-* Git e GitHub
-* APIs REST
-* Responsividade e boas práticas de Front-end
-* Automação de processos com n8n e IA generativa
-* Engenharia de dados com Databricks
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (concluído em 2026)
+- 📍 Araraquara - SP • Disponível para trabalho remoto
+- 💼 Em transição de carreira para Desenvolvimento de Software
+- 🌎 Português (nativo) • Inglês (avançado) • Espanhol (intermediário)
+- ⚡ Foco em interfaces responsivas, componentização e integração com APIs REST
 
 ---
 
-# 📂 Projetos
+## 🛠️ Tecnologias
 
-> Clique no nome do projeto para abrir o repositório.
+**Front-end**
 
-## 🌐 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
-| Projeto | Descrição | Tecnologias | Online |
-| ------- | --------- | ----------- | ------ |
-| [**Portfólio Profissional**](https://github.com/WyversonCouto/Portfolio) | Site com meus projetos pessoais | HTML, CSS, JavaScript | [Ver portfólio](https://wyversoncouto.github.io/Portfolio/) |
-| [**Sistema de Pedidos — Hamburgueria**](https://github.com/WyversonCouto/sistema-pedidos-hamburgueria) | Cardápio digital com carrinho, cálculo automático do total e resumo do pedido em tempo real. Layout responsivo | HTML, CSS, JavaScript | [Fazer um pedido](https://wyversoncouto.github.io/sistema-pedidos-hamburgueria/) |
+**Ferramentas e outros**
 
-## 🤖 Automação e IA
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+---
+
+## ⭐ Projeto em destaque
+
+### 🎮 [Marketplace de NFTs — Desafio Frontend](https://github.com/WyversonCouto/frontend-challenge)
+
+Aplicação front-end completa de um marketplace, construída a partir de um layout no Figma: telas de início, detalhe, carrinho, pagamento, confirmação, login, cadastro, perfil e carteiras.
+
+- **Stack:** React, TypeScript, TanStack Router e Query, Axios, Socket.IO, Tailwind CSS, shadcn/ui
+- **Qualidade:** MSW para mock de API, testes e2e com Playwright, auditoria com Lighthouse
+- **Entrega:** deploy público na Vercel e documentação de arquitetura (`ARCHITECTURE.md`)
+- 🔗 **[Ver online](https://frontend-challenge-kappa-lac.vercel.app)** • **[Ver código](https://github.com/WyversonCouto/frontend-challenge)**
+
+<!-- ⚠️ Se tiver os números reais do Lighthouse, adicione: "Lighthouse: Performance XX • Acessibilidade XX • Boas práticas XX • SEO XX" -->
+
+---
+
+## 📂 Outros projetos
+
+### 🌐 Front-end
+
+| Projeto | Descrição | Tecnologias | Demo |
+|---|---|---|---|
+| [**Sistema de Pedidos — Hamburgueria**](https://github.com/WyversonCouto/sistema-pedidos-hamburgueria) | Cardápio digital com carrinho, cálculo automático do total e resumo do pedido em tempo real. Layout responsivo. | HTML, CSS, JavaScript | [Fazer um pedido](https://wyversoncouto.github.io/sistema-pedidos-hamburgueria/) ⚠️ |
+| [**Portfólio Profissional**](https://github.com/WyversonCouto/Portfolio) | Site com meus projetos e contatos. | HTML, CSS, JavaScript | [Ver portfólio](https://wyversoncouto.github.io/Portfolio/) ⚠️ |
+
+### 🤖 Automação e IA
 
 | Projeto | Descrição | Tecnologias |
-| ------- | --------- | ----------- |
-| [**WY Assistant AI**](https://github.com/WyversonCouto/WY-Assistant-AI) 🚧 | Secretária virtual que responde mensagens, gerencia agenda e classifica contatos | n8n, Ollama, Docker, Google Calendar, Gmail, Telegram |
-| [**Assistente de Investimentos com RPA e IA**](https://github.com/WyversonCouto/dio-lab-assistente-investimentos-rpa-n8n) | Workflow de automação com IA generativa e envio por e-mail (desafio DIO) | n8n, Groq, Gmail |
-| [**Desafios Criativos**](https://github.com/WyversonCouto/meus-desafios-criativos) | Planejamento de automações com n8n usando bons prompts (desafio DIO) | n8n, Engenharia de prompts |
+|---|---|---|
+| [**WY Assistant AI**](https://github.com/WyversonCouto/WY-Assistant-AI) | Secretária virtual que responde mensagens, gerencia agenda e classifica contatos. Inclui correção de bug de loop de auto-resposta. | n8n, Ollama, Docker, Google Calendar, Gmail, Telegram |
+| [**Assistente de Investimentos com RPA e IA**](https://github.com/WyversonCouto/dio-lab-assistente-investimentos-rpa-n8n) | Workflow com IA generativa e envio por e-mail. | n8n, Groq, Gmail |
 
-## 📊 Dados
+### 📊 Dados
 
 | Projeto | Descrição | Tecnologias |
-| ------- | --------- | ----------- |
-| [**VoeBem Analytics**](https://github.com/WyversonCouto/voebem-analytics-databricks) | Pipeline de dados da aviação brasileira (ANAC) com arquitetura medalhão: Bronze, Silver, Gold e Genie (Imersão Alura) | Databricks, SQL, Python |
-
-## 📘 Estudos
-
-| Projeto | Descrição |
-| ------- | --------- |
-| [**Miniguia de Estudos Front-end**](https://github.com/WyversonCouto/miniguia-estudos-notebooklm) | Caderno temático no NotebookLM sobre como se tornar um desenvolvedor Front-end e ser contratado (desafio DIO) |
-
-> 🚧 **Próximos projetos:** Lista de Tarefas (JavaScript), Dashboard Administrativo, Landing Page Responsiva e um app em React.
+|---|---|---|
+| [**VoeBem Analytics**](https://github.com/WyversonCouto/voebem-analytics-databricks) | Pipeline de dados da aviação brasileira (ANAC) com arquitetura medalhão: Bronze, Silver, Gold e Genie. | Databricks, SQL, Python |
 
 ---
 
-# 📈 Estatísticas
+## 📚 Estudando agora
 
-<p align="center">
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=WyversonCouto&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=WyversonCouto&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- React e TypeScript (testes, performance e acessibilidade)
+- Consumo de APIs REST e gerenciamento de estado de servidor
+- Boas práticas: componentização, clean code e Git flow
 
 ---
 
-# 🔥 Sequência de Contribuições
+## 🎓 Formação e cursos
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=WyversonCouto&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎓 Cursos, imersões e desafios
-
-* 🧠 **Alura** — Imersão Engenharia de Dados com IA (projeto [VoeBem Analytics](https://github.com/WyversonCouto/voebem-analytics-databricks))
-* 🚀 **DIO** — Desafio de projeto: Caderno Temático no NotebookLM ([miniguia](https://github.com/WyversonCouto/miniguia-estudos-notebooklm))
-* 🚀 **DIO** — Desafio de projeto: Planejando Automações com n8n Usando Apenas Bons Prompts ([repositório](https://github.com/WyversonCouto/meus-desafios-criativos))
-* 🚀 **DIO** — Desafio de projeto: Assistente de Investimentos com RPA e IA Generativa ([repositório](https://github.com/WyversonCouto/dio-lab-assistente-investimentos-rpa-n8n))
-
----
-
-# 🎯 Objetivos para 2026
-
-- [ ] Conquistar minha primeira oportunidade como Desenvolvedor Front-end
-- [ ] Dominar React e TypeScript
-- [ ] Construir um portfólio sólido com projetos práticos
-- [ ] Aprimorar conhecimentos em Git, GitHub e APIs REST
-- [ ] Evoluir continuamente como profissional de tecnologia
-
----
-
-# 🌎 Idiomas
-
-🗣️ **Português** — Nativo
-
-🗣️ **Inglês** — Intermediário
-
-🗣️ **Espanhol** — Intermediário
-
----
-
-# 📫 Vamos nos conectar?
-
-<p align="center">
-
-<a href="mailto:wyversonn.pablo@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/wyverson-couto">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/WyversonCouto">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** (2026)
+- 🚀 **Santander Bootcamp 2026 — Automação com N8N** (DIO, 26h)
+- 🧠 **Alura** — Imersão Engenharia de Dados com IA e Imersão Dev na era da IA
+- 📘 **Hashtag Treinamentos** — JavaScript, Python e Power BI
 
 ---
 
 <p align="center">
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WyversonCouto/WyversonCouto/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WyversonCouto/WyversonCouto/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WyversonCouto/WyversonCouto/output/github-contribution-grid-snake.svg">
-</picture>
-
-⭐ Obrigado por visitar meu perfil!
-
-*"A tecnologia transforma ideias em soluções. Estou construindo essa jornada um projeto de cada vez."*
-
+  💬 Aberto a conversas sobre vagas de <b>Desenvolvedor Front-end Júnior</b> •
+  <a href="mailto:wyversonn.pablo@gmail.com">wyversonn.pablo@gmail.com</a>
 </p>
