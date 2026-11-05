@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="banner.png" alt="Wyverson Couto - Desenvolvedor Front-end" />
+  <img src="banner-github.png" alt="Wyverson Couto - Desenvolvedor Front-end" />
 </p>
 
 <h1 align="center">Olá 👋, eu sou Wyverson Couto</h1>
