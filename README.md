@@ -107,7 +107,8 @@ Aplicação front-end completa de um marketplace, construída a partir de um lay
 
 - 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** (2026)
 - 🚀 **Santander Bootcamp 2026 — Automação com N8N** (DIO, 26h)
-- 🧠 **Alura** — Imersão Engenharia de Dados com IA e Imersão Dev na era da IA
+- 🧠 **Alura** — Imersão Engenharia de Dados com IA e Imersão Engenharia de Software: Dev na era da IA (com Google for Startups)
+- 🐙 **DIO** — Formação GitHub Certification (10h)
 - 📘 **Hashtag Treinamentos** — JavaScript, Python e Power BI
 
 ---
