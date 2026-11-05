@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/wyverson-couto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:wyversonn.pablo@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:Wyversonn.pablo@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wyversoncouto.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
@@ -57,16 +57,17 @@
 
 ## ⭐ Projeto em destaque
 
-### 🎮 [Marketplace de NFTs — Desafio Frontend](https://github.com/WyversonCouto/frontend-challenge)
+### 🎮 [Kurio — Marketplace de NFTs](https://github.com/WyversonCouto/nft-marketplace-frontend)
 
-Aplicação front-end completa de um marketplace, construída a partir de um layout no Figma: telas de início, detalhe, carrinho, pagamento, confirmação, login, cadastro, perfil e carteiras.
+Aplicação front-end completa de um marketplace, construída a partir de um layout no Figma e de um desafio técnico: início, detalhe, carrinho, pagamento, confirmação, login, cadastro, perfil e carteiras, em desktop e mobile.
 
 - **Stack:** React, TypeScript, TanStack Router e Query, Axios, Socket.IO, Tailwind CSS, shadcn/ui
-- **Qualidade:** MSW para mock de API, testes e2e com Playwright, auditoria com Lighthouse
+- **Qualidade:** MSW para mock de API e tempo real, 72 testes E2E com Playwright e auditoria com Lighthouse
+- **Lighthouse (desktop):** Performance 100 • Acessibilidade 97 • Boas práticas 96 • SEO 92
 - **Entrega:** deploy público na Vercel e documentação de arquitetura (`ARCHITECTURE.md`)
-- 🔗 **[Ver online](https://frontend-challenge-kappa-lac.vercel.app)** • **[Ver código](https://github.com/WyversonCouto/frontend-challenge)**
+- 🔗 **[Ver online](https://frontend-challenge-kappa-lac.vercel.app)** • **[Ver código](https://github.com/WyversonCouto/nft-marketplace-frontend)**
 
-<!-- ⚠️ Se tiver os números reais do Lighthouse, adicione: "Lighthouse: Performance XX • Acessibilidade XX • Boas práticas XX • SEO XX" -->
+
 
 ---
 
@@ -76,8 +77,8 @@ Aplicação front-end completa de um marketplace, construída a partir de um lay
 
 | Projeto | Descrição | Tecnologias | Demo |
 |---|---|---|---|
-| [**Sistema de Pedidos — Hamburgueria**](https://github.com/WyversonCouto/sistema-pedidos-hamburgueria) | Cardápio digital com carrinho, cálculo automático do total e resumo do pedido em tempo real. Layout responsivo. | HTML, CSS, JavaScript | [Fazer um pedido](https://wyversoncouto.github.io/sistema-pedidos-hamburgueria/) ⚠️ |
-| [**Portfólio Profissional**](https://github.com/WyversonCouto/Portfolio) | Site com meus projetos e contatos. | HTML, CSS, JavaScript | [Ver portfólio](https://wyversoncouto.github.io/Portfolio/) ⚠️ |
+| [**Sistema de Pedidos — Hamburgueria**](https://github.com/WyversonCouto/sistema-pedidos-hamburgueria) | Cardápio digital com carrinho, cálculo automático do total e resumo do pedido em tempo real. Layout responsivo. | HTML, CSS, JavaScript | [Fazer um pedido](https://wyversoncouto.github.io/sistema-pedidos-hamburgueria/) |
+| [**Portfólio Profissional**](https://github.com/WyversonCouto/Portfolio) | Site com meus projetos e contatos. | HTML, CSS, JavaScript | [Ver portfólio](https://wyversoncouto.github.io/Portfolio/) |
 
 ### 🤖 Automação e IA
 
@@ -113,5 +114,5 @@ Aplicação front-end completa de um marketplace, construída a partir de um lay
 
 <p align="center">
   💬 Aberto a conversas sobre vagas de <b>Desenvolvedor Front-end Júnior</b> •
-  <a href="mailto:wyversonn.pablo@gmail.com">wyversonn.pablo@gmail.com</a>
+  <a href="mailto:wyversonn.pablo@gmail.com">Wyverson.pablo@gmail.com</a>
 </p>
