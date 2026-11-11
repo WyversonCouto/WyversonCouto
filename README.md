@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/wyverson-couto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Wyversonn.pablo@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:Wyverson.pablo@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wyversoncouto.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
@@ -115,5 +115,5 @@ Aplicação front-end completa de um marketplace, construída a partir de um lay
 
 <p align="center">
   💬 Aberto a conversas sobre vagas de <b>Desenvolvedor Front-end Júnior</b> •
-  <a href="mailto:wyversonn.pablo@gmail.com">Wyverson.pablo@gmail.com</a>
+  <a href="mailto:wyverson.pablo@gmail.com">Wyverson.pablo@gmail.com</a>
 </p>
